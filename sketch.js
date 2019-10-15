@@ -95,7 +95,6 @@ function draw() {
 }
 
 
-
 function backgroundImage() {
   //--defining my background image adapted to my screen
   push();
