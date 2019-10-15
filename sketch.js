@@ -13,14 +13,14 @@ var jupiterMoons;
 
 function preload(){
   //--loading my external material
-  mySong = loadSound("2019-04-FrancyG8/assets/cantinaSong.mp3");
+  mySong = loadSound("./assets/cantinaSong.mp3");
 
-  firstBith = loadImage("2019-04-FrancyG8/assets/Cantina-Player-1.png");
-  secondBith = loadImage("2019-04-FrancyG8/assets/Cantina-Player-2.png");
-  thirdBith = loadImage("2019-04-FrancyG8/assets/Cantina-Player-3.png");
-  fourthBith = loadImage("2019-04-FrancyG8/assets/Cantina-Player-4.png");
+  firstBith = loadImage("./assets/Cantina-Player-1.png");
+  secondBith = loadImage("./assets/Cantina-Player-2.png");
+  thirdBith = loadImage("./assets/Cantina-Player-3.png");
+  fourthBith = loadImage("./assets/Cantina-Player-4.png");
 
-  jupiterMoons = loadImage("2019-04-FrancyG8/assets/jupiter-family.jpg");
+  jupiterMoons = loadImage("./assets/jupiter-family.jpg");
 
 }
 
